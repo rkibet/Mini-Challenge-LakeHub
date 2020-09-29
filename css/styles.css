@@ -1,0 +1,50 @@
+.header{
+    font-family: 'Italianno';font-size: 22px;
+    text-align: center;
+}
+h2{
+   text-align: center;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.row1{
+    border: black 2px solid;
+}
+.colLeft{
+   
+    width: 24.7%;
+    float: left;   
+}
+.colmiddle{
+    
+    width: 49.7%;
+    display: inline-block;
+    border-left:  black  solid;
+    border-right:  black  solid;
+}
+.colRight{   
+    width: 25%;
+    float: right;
+}
+.colLeft2{
+    width: 24.6%;
+    float: left;
+    border-bottom:  black solid;
+    border-left:  black  solid;
+    border-right:  black  solid;
+    height:320px ;  
+}
+.colRight2{
+    width: 74.6%;
+    float: right;
+    border-bottom: black  solid;
+    border-right:  black  solid;
+    height: 320px;
+}
+ul{
+   list-style-type: none;
+   padding-left: 0px;
+}
